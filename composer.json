@@ -6,5 +6,8 @@
             "email": "safronyuk-olya@mail.ru"
         }
     ],
-	"version": "dev-master"
+	"version": "dev-master",
+	"autoload":{
+		"files":["classApartament.php","classAvenue.php","classCity.php","classEstablishment.php","classGenerate.php"]
+	}
 }
